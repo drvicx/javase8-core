@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javase8-core:jar">
+    <output-path>$PROJECT_DIR$/target/artifacts/javase8_core_jar</output-path>
+    <root id="archive" name="javase8-core.jar">
+      <element id="module-output" name="javase8-core" />
+    </root>
+  </artifact>
+</component>
