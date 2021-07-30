@@ -6,12 +6,17 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffa0ec02-914a-4a1f-a276-dd3970411e84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacore/App.java" afterDir="false" />
+    <list default="true" id="c7a7e10f-4bc4-42ea-bd35-592dc65b8f6c" name="Create Basic Project" comment="Create Basic Project">
+      <change afterPath="$PROJECT_DIR$/OUTPUT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_images/00_JavaCollections.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_serialized/petNames.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_serialized/test.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/collection/list/ArrayListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
+    <list id="ffa0ec02-914a-4a1f-a276-dd3970411e84" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +53,20 @@
     <property name="project.structure.side.proportion" value="0.16781609" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ArrayListExample">
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.collection.list.ArrayListExample" />
+      <module name="javase8-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore.collection.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -67,11 +85,17 @@
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayListExample" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ffa0ec02-914a-4a1f-a276-dd3970411e84" name="Default Changelist" comment="" />
+      <changelist id="c7a7e10f-4bc4-42ea-bd35-592dc65b8f6c" name="Create Basic Project" comment="" />
       <created>1627454939987</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -79,8 +103,16 @@
       <workItem from="1627454943052" duration="46000" />
       <workItem from="1627455799378" duration="4067000" />
       <workItem from="1627473388640" duration="180000" />
-      <workItem from="1627473601914" duration="1016000" />
+      <workItem from="1627473601914" duration="17673000" />
     </task>
+    <task id="LOCAL-00001" summary="Create Basic Project">
+      <created>1627474740141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627474740141</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +132,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Create Basic Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Basic Project" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
