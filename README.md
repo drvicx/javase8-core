@@ -10,15 +10,15 @@
 **=THEORY:**
 <pre>
 * List -- Interface 
-- Maintains insertion order and allows duplicate.
-- Element can be accessed, searched and inserted based on index.
+- Maintains insertion order and allows duplicate;
+- Element can be accessed, searched and inserted based on index;
 
 * ArrayList -- Class 
-- Resizable-array implementation of the List interface.
-- Adding element at any position cost O(n).
-- Allows null value and increases capacity by 50% when current capacity is full.
-- Fetching element is constant O(1)
-- Is not thread safe. Preferred if you have more read operation than write.
+- Resizable-array implementation of the List interface;
+- Adding element at any position cost O(n);
+- Allows null value and increases capacity by 50% when current capacity is full;
+- Fetching element is constant O(1);
+- Is not thread safe. Preferred if you have more read operation than write;
 </pre>
 
 **=LINKS:**

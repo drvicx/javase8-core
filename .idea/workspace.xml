@@ -6,14 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7a7e10f-4bc4-42ea-bd35-592dc65b8f6c" name="Create Basic Project" comment="Create Basic Project">
-      <change afterPath="$PROJECT_DIR$/OUTPUT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_images/00_JavaCollections.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_serialized/petNames.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_serialized/test.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animal.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacore/collection/list/ArrayListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0c917dfa-e9ee-4ddc-90f0-a41e57a8b51a" name="ArrayList Examples" comment="ArrayList Examples">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <list id="ffa0ec02-914a-4a1f-a276-dd3970411e84" name="Default Changelist" comment="" />
@@ -95,7 +88,8 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ffa0ec02-914a-4a1f-a276-dd3970411e84" name="Default Changelist" comment="" />
-      <changelist id="c7a7e10f-4bc4-42ea-bd35-592dc65b8f6c" name="Create Basic Project" comment="" />
+      <changelist id="" name="Create Basic Project" comment="" />
+      <changelist id="0c917dfa-e9ee-4ddc-90f0-a41e57a8b51a" name="ArrayList Examples" comment="" />
       <created>1627454939987</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -103,7 +97,7 @@
       <workItem from="1627454943052" duration="46000" />
       <workItem from="1627455799378" duration="4067000" />
       <workItem from="1627473388640" duration="180000" />
-      <workItem from="1627473601914" duration="17673000" />
+      <workItem from="1627473601914" duration="17982000" />
     </task>
     <task id="LOCAL-00001" summary="Create Basic Project">
       <created>1627474740141</created>
@@ -112,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627474740141</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ArrayList Examples">
+      <created>1627642537969</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627642537969</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,9 +132,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <confirmRemoveEmptyChangelist value="2" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Create Basic Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Basic Project" />
+    <MESSAGE value="ArrayList Examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayList Examples" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
